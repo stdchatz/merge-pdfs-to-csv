@@ -1,6 +1,6 @@
-# PDF to CSV
+# merge-pdfs-to-csv
 
-Clean and convert PDF files into CSV format using Python.
+Clean and convert multiple PDF files into a single CSV/Excel file using Python.
 
 ## Usage
 
@@ -8,7 +8,7 @@ Clean and convert PDF files into CSV format using Python.
 2. Run the script:
 
 ```bash
-python merge_pdfs.py
+python merge_pdfs_to_csv.py
 ```
 
 ## Dependencies
