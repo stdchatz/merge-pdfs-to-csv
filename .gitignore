@@ -1,0 +1,13 @@
+# Ignore PDF and CSV output files
+*.pdf
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Virtual environment
+venv/
