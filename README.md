@@ -1,6 +1,6 @@
 # merge-pdfs-to-csv
 
-Clean and convert multiple PDF files into a single CSV/Excel file using Python.
+Python script to merge multiple PDF files into a single CSV or Excel file.
 
 ## Usage
 
